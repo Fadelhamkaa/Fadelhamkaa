@@ -3,7 +3,6 @@
 - 🌱 I’m currently learning Python and C# 
 - 💞️ I’m looking to collaborate on any scale of projects
 - 📫 How to reach me https://www.linkedin.com/in/fadelhamka/
-- 😄 Pronouns: I don't mind about any of that
 - ⚡ Fun fact: I can drink coffee 2 cups in a day
 
 <!---
