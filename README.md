@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Fadelhamkaa
-- 👀 I’m interested in Data Scince, Artificial Inteliigence, Machine Learning
+- 👀 I’m interested in Data Scince, Artificial Intelligence, Machine Learning
 - 🌱 I’m currently learning Python and C# 
 - 💞️ I’m looking to collaborate on any scale of projects
 - 📫 How to reach me https://www.linkedin.com/in/fadelhamka/
